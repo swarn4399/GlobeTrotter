@@ -3,13 +3,6 @@
 # GlobeScanner
 
 
-
-![Globescanner1](https://user-images.githubusercontent.com/56683039/164520810-3cbd8bdd-96c0-4f3c-b68f-05a40cd45059.gif)
-
-
-
-
-
 ## Introduction:
 
 GlobeScanner brings in a platform to connect the agencies providing tour packages with the people planning their trips. Using Globescanner, it will be easier for local tour guides to market their tour packages to the tourists directly and the tourists will also be able to make an informed choice on which tour package or tour guide will suit their budget and requirements to the best. It is also used to locate the places to visit in an area helping users plan their trips better. Know what other users have to say, plan your trip accordingly.
@@ -35,52 +28,17 @@ The United Nations World Tourism Organization (UNWTO) estimates that internation
 10. Guides can see the packages they have added on their profile.
 11. Tourists can add reviews of any tour packages that they have booked.
 
-## Link to Deployed application:
-http://107.20.193.99:4200
-
-The application has been deployed in AWS using EC2.
-
-## Demo video functionality:
-https://user-images.githubusercontent.com/31062202/164365612-a338115d-38d4-41fc-bcbe-124ba68bf686.mp4
-
-## Cypress Testing:
-https://user-images.githubusercontent.com/31062202/164363001-72815b66-8167-4342-bcfa-09477c2e969e.mp4
-
-## Backend Testing:
-https://user-images.githubusercontent.com/39860389/164360088-8496e629-7af3-482f-94ad-c6f33639f8f4.mp4
-
-## Link to API Documentation:
-https://github.com/arijitd97/GlobeScanner/wiki/GlobeScanner-API-documentation
-
-## Link to Project Board:
-
-Sprint 1: https://github.com/arijitd97/GlobeScanner/projects/1
-
-Sprint 2: https://github.com/arijitd97/GlobeScanner/projects/2
-
-Sprint 3: https://github.com/arijitd97/GlobeScanner/projects/3
-
-Sprint 4: https://github.com/arijitd97/GlobeScanner/projects/4
-
-## Link to Sprint4 deliverables:
-[Sprint4.md](https://github.com/arijitd97/GlobeScanner/blob/main/Sprint4.md) -- [https://github.com/arijitd97/GlobeScanner/blob/main/Sprint4.md](https://github.com/arijitd97/GlobeScanner/blob/main/Sprint4.md)
-
-
-## Team Members:
-1. Harshitha Patel Velpula (harshitha0422)- Frontend
-2. Arijit Dutta (arijitd97) - Frontend
-3. Vishesha Sadu(Vishesha)- Backend
-4. Meghamala Gupta (Meghamala26) -Backend
- 
 
 ## Tech Stack:
 1. Frontend - Angular JS
 2. Backend - Go
 
+The application has been deployed in AWS using EC2. 
+
 
 # How to run the project
 
-Clone the project from https://github.com/arijitd97/GlobeScanner.git
+Clone the project from https://github.com/swarn4399/GlobeTrotter.git
 
 ## Backend
 
