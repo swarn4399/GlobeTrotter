@@ -1,6 +1,6 @@
 
 
-# GlobeScanner
+# GlobeTrotter
 
 
 ## Introduction:
